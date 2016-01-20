@@ -1,2 +1,2 @@
-# bot
-Images Processor Bot
+# MiniLogo
+Language for the initial training of programming
